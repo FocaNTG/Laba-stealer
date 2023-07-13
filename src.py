@@ -11,7 +11,7 @@ import secrets
 # do not claim as yours!
 
 
-webhook = 'https://discord.com/api/webhooks/1129018248722141214/4nseyg1335KTwnDQHEccRhno9dVWjHrF08DCF6Lyo7ewFvoBuoOIqz6ZGRJcf9P6UUu1'
+webhook = 'webhook here'
 
 def CalculateCurrentTime():
     Tick = datetime.now()
