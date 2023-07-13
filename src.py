@@ -19,6 +19,7 @@ def CalculateCurrentTime():
     CurrentTime = Tick.strftime("%H:%M:%S")
     return CurrentTime
 
+#Gataa boss
 
 def Grabber():
     CurrentTime = CalculateCurrentTime()
