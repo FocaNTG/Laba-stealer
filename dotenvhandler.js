@@ -1,4 +1,4 @@
-// module.exports = "MTA5MzUwNDQwMTI2MTQ4MjAyNQ.G-81qd.9dcRN0S4kqdipsnZ6t1FAFBkxfEo7CRMOSjVQc"
+// module.exports = ""
 
 require("dotenv").config();
 
