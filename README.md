@@ -1,2 +1,4 @@
 # - Heker de Romania -
-Steals stuff like network configuration, ip, hardware info and other stuff then sends it to a Discord webhook.
+Tin sa mentionez ca database-ul e inca in lucru.
+Pentru a porni botul, deschide index.js (src/index.js, nu ala din database.
+Inainte de a il porni, modifica-ti environment file-ul corespunzator (.env)
