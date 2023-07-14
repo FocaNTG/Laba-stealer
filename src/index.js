@@ -26,7 +26,7 @@ client.on('ready', () => {
 const prefix = ',';
 
 client.on('ready', () => {
-  console.log(`commands initialized...`);
+  console.log(`commands initialized...`); // sa se stie ca a puscat pana aci ca aveam ceva probleme
 });
 
 client.on('messageCreate', (message) => {
