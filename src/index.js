@@ -18,7 +18,7 @@ config();
 console.log("Valid")
 
 client.on('ready', () => {
-    console.log(`${client.user.tag}としてログインしています`);
+    console.log(`${client.user.tag}としてログインしています`); // sa se stie ca a puscat botul
 });
 
 // stuff for when bot joins (setup for each server!)
@@ -103,6 +103,6 @@ client.on('guildMemberAdd', (TheMember) => {
 });
 
 
-// -------------------------------------------------------------------------------------------------------- \\
+// -------------------------------------------------------------------------------------------------------- \\ mai sus iti bagi codul tau frumos
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.DISCORD_TOKEN); // la final trebuie frumusetea asta :3
