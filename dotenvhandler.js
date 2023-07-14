@@ -1,5 +1,5 @@
 // module.exports = ""
-
+// acum nu mai trebuie fisierul asta, inainte eram usor tampit si nu stiam js + dotenv
 require("dotenv").config();
 
 discordToken = process.env.DISCORD_TOKEN,
