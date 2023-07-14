@@ -27,7 +27,7 @@ client.on('ready', () => {
 // stuff for when bot joins (setup for each server!)
 
 const prefix = ';';
-const api = new Kawaii("1091036373940699347.dzdBAc0zYEMcwnpvs5Fb");
+const api = new Kawaii("KAWAII API KEY");
 
 client.on('ready', () => {
   console.log(`commands initialized...`);
