@@ -1,4 +1,6 @@
 # - Heker de Romania -
-Tin sa mentionez ca database-ul e inca in lucru.
-Pentru a porni botul, deschide index.js (src/index.js, nu ala din database.
-Inainte de a il porni, modifica-ti environment file-ul corespunzator (.env)
+=======
+Steals stuff like network configuration, ip, hardware info and other stuff then sends it to a Discord webhook.
+made by cool people
+
+Database-urile la ThighHigh sunt niste porcarii infecte si am plan sa le dau revamp
